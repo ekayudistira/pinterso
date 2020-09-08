@@ -75,7 +75,7 @@ footer.footer {
   transition: ease .2s;
   background-color: #000000;
   cursor: -webkit-zoom-in;
-  cursor: zoom-in; }
+  cursor: pointer; }
 
 /* line 55, src/assets/scss/theme.scss */
 .more {
