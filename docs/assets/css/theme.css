@@ -92,9 +92,10 @@ footer.footer {
 /* line 66, src/assets/scss/theme.scss */
 .card-pin:hover .card-title {
   color: #ffffff;
+  font-weight:bold;
   margin-top: 10px;
   text-align: center;
-  font-size: 1.2em; }
+  font-size: 15px; }
 
 /* line 73, src/assets/scss/theme.scss */
 .card-pin:hover .more a {
