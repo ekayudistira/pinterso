@@ -63,6 +63,18 @@ footer.footer {
   transition: .2s ease;
   background-color: #008CBA; }
 
+. overlay h2{
+  ont-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 2rem;
+  transform: translate(-50%, -50%);
+}
 /* line 46, src/assets/scss/theme.scss */
 .card {
   border: 0; }
