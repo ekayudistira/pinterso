@@ -70,11 +70,12 @@ footer.footer {
 
 /* line 47, src/assets/scss/theme.scss */
 .card-pin:hover .overlay {
-  opacity: .5;
+  opacity: .0.1;
   border: 5px solid #f3f3f3;
   -webkit-transition: ease .2s;
   transition: ease .2s;
   background-color: #000000;
+  
   cursor: -webkit-pointer;
   cursor: pointer; }
 
