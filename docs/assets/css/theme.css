@@ -61,7 +61,7 @@ footer.footer {
   opacity: 0.1;
   -webkit-transition: .2s ease;
   transition: .2s ease;
-  background-color: #008CBA; }
+  background-color: #000000; }
 
 
 /* line 46, src/assets/scss/theme.scss */
@@ -70,12 +70,12 @@ footer.footer {
 
 /* line 47, src/assets/scss/theme.scss */
 .card-pin:hover .overlay {
-  opacity: .0.1;
+
   border: 5px solid #f3f3f3;
   -webkit-transition: ease .2s;
-  transition: ease .2s;
-  background-color: #000000;
-  
+  transition: ease .2s; 
+  background: #000000;
+  opacity: 0.1;
   cursor: -webkit-pointer;
   cursor: pointer; }
 
